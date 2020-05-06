@@ -6,10 +6,10 @@
 - [2.0 Modeling](#2-Modeling)
   - [2.1 Sketch](#2.1-Sketch)
   - [2.2 Nomenclature](#2.1-Nomenclature)
-  - [2.3 Equations of motion:](#2.3-Equations of motion)
-    - [2.3.1. First Equation of Motion:](#2.3.1-First Equation of Motion)
-    - [2.3.2. Second Equation of Motion:](#2.3.2-Second Equation of Motion) 
-    - [2.3.3. Acceleration Terms](#2.3.3-Acceleration Terms)
+  - [2.3 Equations of motion](#2.3-Equations of motion)
+    - [2.3.1 First Equation of Motion](#2.3.1-First Equation of Motion)
+    - [2.3.2 Second Equation of Motion](#2.3.2-Second Equation of Motion) 
+    - [2.3.3 Acceleration Terms](#2.3.3-Acceleration Terms)
 - [3.0 Simulation](#3-Simulation)
 - [4.0 Localization](#4-Localization)
   - [4.1. EKF Localization](#41-EKF-Localization)
@@ -47,8 +47,7 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
 </p>
   ### 2.3 Equations of motion
      2.3.1 First Equation of Motion:
-    
-![equation](http://www.sciweavers.org/upload/Tex2Img_1588808907/render.png)
+    ![equation](http://www.sciweavers.org/upload/Tex2Img_1588808907/render.png)
     
     2.3.2 Second Equation of Motion:
     <p align = "center">
