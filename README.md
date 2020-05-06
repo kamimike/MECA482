@@ -6,10 +6,7 @@
 - [2.0 Modeling](#2-Modeling)
   -[2.1 Sketch](#2.1-Sketch)
   -[2.2 Nomenclature](#2.1-Nomenclature)
-  -[2.3 Nonlinear Equations of Motion:](#2.1-Nonlinear Equations of Motion)
-    -[2.3.1. First Equation of Motion:](#2.1-First Equation of Motion)
-    -[2.3.2. Second Equation of Motion:](#2.1-Second Equation of Motion)
-    -[2.3.3. Acceleration Terms](#2.1-Acceleration Terms)
+  -[2.3 Nonlinear Equations of Motion](#2.1-Nonlinear Equations of Motion)
 - [3.0 Simulation](#3-Simulation)
 - [4.0 Localization](#4-Localization)
   - [4.1. EKF Localization](#41-EKF-Localization)
@@ -30,8 +27,8 @@
 For Control system models dealing with inverted pendulums, one of the most utilized and studied profoundly has been The Furuta Pendulum. This model has been used for experimental analysis for the use of control theory. The Furuta Pendulum was introduced by Katsuhisa Furuta et. al. at Tokyo Institute of Technology. 
 
 The pendulum consists of a rigid horizontal arm connected at one end to a motor. At its distal end is attached an encoder and a freely swinging arm in the vertical plane. The object of the control system is to cause the arm to remain standing. As mentioned before, The Furuta pendulum is of interest in the study of control theory because although it only has two degrees of freedom the related velocity vectors are quadratic due to the rotational nature of the system. This significantly complicates the related control theory.
-
 This document summarizes the theory, methodology, and calculations required to bring rise to the equations of motion, state-space representation, and subsequently control code via MATLAB and Simulink.
+
 -----------------------------------------------------------------------------------------
 ## 2. Modeling
 In order to model the Furuta Pendulum the team followed the provided Rotary Pendulum (ROTPEN) Workbook from Quanser. The following figures and equations are taken directly from the workbook. Necessary derivations are provided as prompted by the workbook in order to bring rise to the linear state-space representation.
