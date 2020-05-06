@@ -30,7 +30,7 @@ The pendulum consists of a rigid horizontal arm connected at one end to a motor.
 
   2.1 In order to model the Furuta Pendulum the team followed the provided Rotary Pendulum (ROTPEN) Workbook from Quanser. The following figures and equations are taken directly from the workbook. Necessary derivations are provided as prompted by the workbook in order to bring rise to the linear state-space representation.
 
-  2.2 Sketch
+emsp 2.2 Sketch
 <p align = "center">
   <img src = "doc/Pendulum.png" height = "360px" style="margin:10px 10px">
 </p>
