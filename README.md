@@ -5,9 +5,9 @@
 - [1.0 Introduction](#1-Introduction)
 - [2.0 Modeling](#2-Modeling)
   - [2.1 Sketch](#2.1-Sketch)
-  - [2.2 Nomenclature](#2.1-Nomenclature)
-  - [2.3 Nonlinear Equations of Motion](#2.2-Nonlinear Equations of Motion)
-  - [3.0 Simulation](#3-Simulation)
+  - [2.2 Nomenclature](#2.2-Nomenclature)
+  - [2.3 Linear Space-State Model](#2.3-Linear Space-State ModelNonlinear)
+- [3.0 Simulation](#3-Simulation)
 - [4.0 Localization](#4-Localization)
   - [4.1. EKF Localization](#41-EKF-Localization)
   - [4.2. Particle Filter Localization](#42-Particle-Filter-Localization)
@@ -55,7 +55,7 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
     <p align = "center">
       <img src = "cod/AccelerationTerms.png" height = "120px" style="margin:10px 10px">
     </p>
-  2.4 Linear Space-State Model
+  2.3 Linear Space-State Model
 -----------------------------------------------------------------------------------------
 ## 3. Simulation
 Two filter-based localization algorithms are implemented:
