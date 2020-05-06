@@ -1,9 +1,6 @@
 # Furuta Pendulum
 #### Claire Christensen, Andrea Cortez, Keith Gramcko, Miguel Gonzalez, Yardley Ordonez, Spring 2020, California State University, Chico
 -----------------------------------------------------------------------------------------
-## 1. Introduction
-This project contains MatLAB implementations and results of a variety of space state estimation and Simulinkimplementation
-
 #### Table of Contents
 - [1.0 Introduction](#1-Introduction)
 - [2.0 Dataset](#2-Dataset)
@@ -22,6 +19,12 @@ This project contains MatLAB implementations and results of a variety of space s
 - [8.0 Fast SLAM 2](#8-Fast-SLAM-2)
   - [8.1. Fast SLAM 2 with Unknown Correspondence](#81-Fast-SLAM-2-with-Unknown-Correspondence)
 -----------------------------------------------------------------------------------------
+## 1. Introduction
+For Control system models dealing with inverted pendulums, one of the most utilized and studied profoundly has been The Furuta Pendulum. This model has been used for experimental analysis for the use of control theory. The Furuta Pendulum was introduced by Katsuhisa Furuta et. al. at Tokyo Institute of Technology. 
+
+The pendulum consists of a rigid horizontal arm connected at one end to a motor. At its distal end is attached an encoder and a freely swinging arm in the vertical plane. The object of the control system is to cause the arm to remain standing. As mentioned before, The Furuta pendulum is of interest in the study of control theory because although it only has two degrees of freedom the related velocity vectors are quadratic due to the rotational nature of the system. This significantly complicates the related control theory.
+
+
 ## 2. Dataset
 **Furuta Pendulum** is a ....
 
