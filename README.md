@@ -4,9 +4,9 @@
 #### Table of Contents
 - [1.0 Introduction](#1-Introduction)
 - [2.0 Modeling](#2-Modeling)
-  -[2.1 Sketch](#2.1-Sketch)
-  -[2.2 Nomenclature](#2.1-Nomenclature)
-  -[2.3 Nonlinear Equations of Motion](#2.1-Nonlinear Equations of Motion)
+  - [2.1 Sketch](#2.1-Sketch)
+  - [2.2 Nomenclature](#2.1-Nomenclature)
+  - [2.3 Nonlinear Equations of Motion](#2.1-Nonlinear Equations of Motion)
 - [3.0 Simulation](#3-Simulation)
 - [4.0 Localization](#4-Localization)
   - [4.1. EKF Localization](#41-EKF-Localization)
