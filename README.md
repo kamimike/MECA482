@@ -18,6 +18,7 @@
   - [7.2. Fast SLAM 1 with Unknown Correspondence](#72-Fast-SLAM-1-with-Unknown-Correspondence)
 - [8.0 Fast SLAM 2](#8-Fast-SLAM-2)
   - [8.1. Fast SLAM 2 with Unknown Correspondence](#81-Fast-SLAM-2-with-Unknown-Correspondence)
+  
 -----------------------------------------------------------------------------------------
 ## 1. Introduction
 1.1 For Control system models dealing with inverted pendulums, one of the most utilized and studied profoundly has been The Furuta Pendulum. This model has been used for experimental analysis for the use of control theory. The Furuta Pendulum was introduced by Katsuhisa Furuta et. al. at Tokyo Institute of Technology. 
@@ -25,7 +26,7 @@
 The pendulum consists of a rigid horizontal arm connected at one end to a motor. At its distal end is attached an encoder and a freely swinging arm in the vertical plane. The object of the control system is to cause the arm to remain standing. As mentioned before, The Furuta pendulum is of interest in the study of control theory because although it only has two degrees of freedom the related velocity vectors are quadratic due to the rotational nature of the system. This significantly complicates the related control theory.
 
 1.2 This document summarizes the theory, methodology, and calculations required to bring rise to the equations of motion, state-space representation, and subsequently control code via MATLAB and Simulink.
-
+-----------------------------------------------------------------------------------------
 ## 2. Modeling
 
   2.1 In order to model the Furuta Pendulum the team followed the provided Rotary Pendulum (ROTPEN) Workbook from Quanser. The following figures and equations are taken directly from the workbook. Necessary derivations are provided as prompted by the workbook in order to bring rise to the linear state-space representation.
@@ -41,9 +42,21 @@ The pendulum consists of a rigid horizontal arm connected at one end to a motor.
 </p>
 
   2.4 Non-Linear Equations of Motion (as given by Quanser ROTPEN workbook)
-
+    2.4.1 First Equation:
+    <p align = "center">
+      <img src = "cod/FirstEquation.png" height = "120px" style="margin:10px 10px">
+    </p>
+    2.4.2
+    <p align = "center">
+      <img src = "cod/SecondEquation.png" height = "120px" style="margin:10px 10px">
+    </p>
+    2.4.3
+    <p align = "center">
+      <img src = "cod/AccelerationTerms.png" height = "120px" style="margin:10px 10px">
+    </p>
+  2.5 Linear Space-State Model
 -----------------------------------------------------------------------------------------
-# 3. Localization
+## 3. Simulation
 Two filter-based localization algorithms are implemented:
 * Parametric model: Extended Kalman Filter based localization
 * Non-parametric model: Particle Filter based localization
