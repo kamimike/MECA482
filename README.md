@@ -28,9 +28,9 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
    <img src = "doc/Pendulum.png" height = "360px" style="margin:10px 10px">
   </p>
   
-  <p align="center">Figure 1: Furuta Pendulum Model</p>
+  <p align="center">Figure 1: Furuta Pendulum Schematic Model</p>
 
-Analyzing the Pendulum model above, The Rotary's respective angle increases positively when it rotates counter-clockwise. The motor attached to the arm helps the arm achieve the assigned sign convention when voltage is positive. The pendulum link's respective angle also increases positively when rotated counter-clockwise.
+In reference to Figure 1 the typical Furuta Pendulum is presented as such and the two angles show show the degree of freedom for the pendulum to maintain equilibrium. Analyzing the Pendulum model above, The Rotary's respective angle increases positively when it rotates counter-clockwise. The motor attached to the arm helps the arm achieve the assigned sign convention when voltage is positive. The pendulum link's respective angle also increases positively when rotated counter-clockwise. 
 
  ### 2.2 Nomenclature
   
