@@ -6,7 +6,7 @@
 - [2 Modeling](#2-Modeling)
   - [2.1 Sketch](#2.1-Sketch)
   - [2.2 Nomenclature](#2.2-Nomenclature)
-  - [2.3 Equations of motion](#2.3-Equations of motion)  
+  - [2.3 Equations of Motion](#2.2-Equations of Motion)
 - [3 Simulation](#3-Simulation)
   - [3.1 Script](#3.1-Script)
 - [4 Implementation](#4-Implementation)
@@ -23,31 +23,32 @@ This document summarizes the theory, methodology, and calculations required to b
 In order to model the Furuta Pendulum the team followed the provided Rotary Pendulum (ROTPEN) Workbook from Quanser. The following figures and equations are taken directly from the workbook. Necessary derivations are provided as prompted by the workbook in order to bring rise to the linear state-space representation.
 
   ### 2.1 Sketch
-<p align = "center">
-  <img src = "doc/Pendulum.png" height = "360px" style="margin:10px 10px">
-</p>
+  <p align = "center">
+   <img src = "doc/Pendulum.png" height = "360px" style="margin:10px 10px">
+  </p>
 
   ### 2.2 Nomenclature
-<p align = "center">
-    <img src = "doc/Nomenclature.png" height = "720px" style="margin:10px 10px">
-</p>
+  <p align = "center">
+     <img src = "doc/Nomenclature.png" height = "720px" style="margin:10px 10px">
+  </p>
 
-  ### 2.3 Equations of motion
-    2.3.1 First Equation of Motion:
+  ### 2.3 Equations of Motion
+    2.3.1 First Equation:
     
     <p align = "center">
-    ![equation](http://www.sciweavers.org/upload/Tex2Img_1588808907/render.png)
+      ![equation](http://www.sciweavers.org/upload/Tex2Img_1588808907/render.png)
     </p>
     
-    2.3.2 Second Equation of Motion:
+    2.3.2 Second Equation:
     
     <p algin = "center">
-    ![equation](http://www.sciweavers.org/upload/Tex2Img_1588809669/render.png)   
+      ![equation](http://www.sciweavers.org/upload/Tex2Img_1588809669/render.png)   
     </p>
     
     2.3.3 Acceleration Terms:
     
   ### 2.4 Linear Space-State Model
+  
 -----------------------------------------------------------------------------------------
 ## 3. Simulation
 
