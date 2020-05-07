@@ -27,6 +27,8 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
   <p align = "center">
    <img src = "doc/Pendulum.png" height = "360px" style="margin:10px 10px">
   </p>
+  
+  <p align="center">Figure 1: Furuta Pendulum Model</p>
 
  ### 2.2 Nomenclature
   
