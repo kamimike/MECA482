@@ -40,9 +40,7 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
         
     Second Equation:
     
-    <p algin = "center">
-      ![equation](http://www.sciweavers.org/upload/Tex2Img_1588809669/render.png)   
-    </p>
+ ![equation](http://www.sciweavers.org/upload/Tex2Img_1588817442/eqn.png)   
     
     Acceleration Terms:
     
