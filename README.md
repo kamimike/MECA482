@@ -7,6 +7,7 @@
   - [2.1 Sketch](#2.1-Sketch)
   - [2.2 Nomenclature](#2.2-Nomenclature)
   - [2.3 Equations of Motion](#2.3-Equations of Motion)
+  - [2.4 Linear Space-State Model](#2.4-Linear Space-State Model)
 - [3 Simulation](#3-Simulation)
   - [3.1 Script](#3.1-Script)
 - [4 Implementation](#4-Implementation)
