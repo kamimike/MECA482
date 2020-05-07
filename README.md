@@ -23,24 +23,24 @@ The pendulum consists of a rigid horizontal arm connected at one end to a motor.
 ## 2. Modeling
 In order to model the Furuta Pendulum the team followed the provided Rotary Pendulum (ROTPEN) Workbook from Quanser. The following figures and equations are taken directly from the workbook. Necessary derivations are provided as prompted by the workbook in order to bring rise to the linear state-space representation.
 
-  2.1 Sketch
+ ### 2.1 Sketch
   <p align = "center">
    <img src = "doc/Pendulum.png" height = "360px" style="margin:10px 10px">
   </p>
 
-  2.2 Nomenclature
+ ### 2.2 Nomenclature
   
   ![Equation](http://www.sciweavers.org/upload/Tex2Img_1588830068/eqn.png)
 
-  2.3 Equations of Motion
+ ### 2.3 Equations of Motion
     
    First linear equation of motion with respect to the generalized forces acting on the   rotary arm:
     
-![equation](http://www.sciweavers.org/upload/Tex2Img_1588828513/eqn.png)
+  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588828513/eqn.png)
         
    Second linear equation of motion with respect to the  generalized force acting on the pendulum:
     
- ![equation](http://www.sciweavers.org/upload/Tex2Img_1588827827/eqn.png)   
+   ![equation](http://www.sciweavers.org/upload/Tex2Img_1588827827/eqn.png)   
     
    Determinant for the equations of motion:
     
@@ -52,7 +52,7 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
     
   ![equation](http://www.sciweavers.org/upload/Tex2Img_1588828379/eqn.png)  
     
-  2.4 Linear Space-State Model
+ ### 2.4 Linear Space-State Model
     asdfasdfasdf
   
 -----------------------------------------------------------------------------------------
