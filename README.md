@@ -34,15 +34,24 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
   </p>
 
   2.3 Equations of Motion
-    First Equation:
     
-![equation](http://www.sciweavers.org/upload/Tex2Img_1588819731/eqn.png)
+    First linear equation of motion with respect to the generalized forces acting on the   rotary arm:
+    
+![equation](http://www.sciweavers.org/upload/Tex2Img_1588828513/eqn.png)
         
-    Second Equation:
+    Second linear equation of motion with respect to the  generalized force acting on the pendulum:
     
- ![equation](http://www.sciweavers.org/upload/Tex2Img_1588819616/eqn.png)   
+ ![equation](http://www.sciweavers.org/upload/Tex2Img_1588827827/eqn.png)   
     
-    Acceleration Terms:
+    Determinant for the equations of motion:
+    
+  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588827941/eqn.png)
+    
+    Acceleration terms for the equations of motion:
+    
+  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588828312/eqn.png)  
+    
+  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588828379/eqn.png)  
     
   2.4 Linear Space-State Model
     asdfasdfasdf
