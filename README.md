@@ -36,10 +36,8 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
   2.3 Equations of Motion
     First Equation:
     
-    <p align = "center">
-      ![equation](http://www.sciweavers.org/upload/Tex2Img_1588808907/render.png)
-    </p>
-    
+![equation](http://www.sciweavers.org/upload/Tex2Img_1588816967/eqn.png)
+        
     Second Equation:
     
     <p algin = "center">
