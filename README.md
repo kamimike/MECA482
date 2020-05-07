@@ -6,7 +6,7 @@
 - [2 Modeling](#2-Modeling)
   - [2.1 Sketch](#2.1-Sketch)
   - [2.2 Nomenclature](#2.2-Nomenclature)
-  - [2.3 Equations of motion:](#2.3-Equations of motion)  
+  - [2.3 Equations of motion](#2.3-Equations of motion)  
 - [3 Simulation](#3-Simulation)
   - [3.1 Script](#3.1-Script)
 - [4 Implementation](#4-Implementation)
