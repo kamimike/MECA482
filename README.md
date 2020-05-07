@@ -31,6 +31,7 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
 <p align = "center">
     <img src = "doc/Nomenclature.png" height = "720px" style="margin:10px 10px">
 </p>
+
   ### 2.3 Equations of motion
     2.3.1 First Equation of Motion:
     
@@ -46,7 +47,7 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
     
     2.3.3 Acceleration Terms:
     
-  2.4 Linear Space-State Model
+  ### 2.4 Linear Space-State Model
 -----------------------------------------------------------------------------------------
 ## 3. Simulation
 
