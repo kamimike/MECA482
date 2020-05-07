@@ -29,9 +29,8 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
   </p>
 
   2.2 Nomenclature
-  <p align = "center">
-     <img src = "doc/Nomenclature.png" height = "720px" style="margin:10px 10px">
-  </p>
+  
+  ![Equation](http://www.sciweavers.org/upload/Tex2Img_1588830068/eqn.png)
 
   2.3 Equations of Motion
     
