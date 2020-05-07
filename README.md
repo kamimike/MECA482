@@ -34,27 +34,27 @@ Analyzing the Pendulum model above, The Rotary's respective angle increases posi
 
  ### 2.2 Nomenclature
   
-  ![Equation](http://www.sciweavers.org/upload/Tex2Img_1588830068/eqn.png)
+  ![Equation](http://www.sciweavers.org/upload/Tex2Img_1588889804/eqn.png)
 
  ### 2.3 Equations of Motion
     
    First linear equation of motion with respect to the generalized forces acting on the   rotary arm:
     
-  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588828513/eqn.png)
+  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588889911/eqn.png)
         
    Second linear equation of motion with respect to the  generalized force acting on the pendulum:
     
-   ![equation](http://www.sciweavers.org/upload/Tex2Img_1588827827/eqn.png)   
+   ![equation](http://www.sciweavers.org/upload/Tex2Img_1588889984/eqn.png)   
     
    Determinant for the equations of motion:
     
-  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588827941/eqn.png)
+  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588890088/eqn.png)
     
    Acceleration terms for the equations of motion:
     
-  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588828312/eqn.png)  
+  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588890170/eqn.png)  
     
-  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588828379/eqn.png)  
+  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588890250/eqn.png)  
     
  ### 2.4 Linear Space-State Model
     asdfasdfasdf
