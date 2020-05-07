@@ -30,6 +30,8 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
   
   <p align="center">Figure 1: Furuta Pendulum Model</p>
 
+Analyzing the Pendulum model above, The Rotary's respective angle increases positively when it rotates counter-clockwise. The motor attached to the arm helps the arm achieve the assigned sign convention when voltage is positive. The pendulum link's respective angle also increases positively when rotated counter-clockwise.
+
  ### 2.2 Nomenclature
   
   ![Equation](http://www.sciweavers.org/upload/Tex2Img_1588830068/eqn.png)
