@@ -46,19 +46,20 @@ In order to model the Furuta Pendulum the team followed the provided Rotary Pend
     <img src = "doc/Nomenclature.png" height = "720px" style="margin:10px 10px">
 </p>
   ### 2.3 Equations of motion
-     2.3.1 First Equation of Motion:
+    2.3.1 First Equation of Motion:
+    
     <p align = "center">
     ![equation](http://www.sciweavers.org/upload/Tex2Img_1588808907/render.png)
     </p>
-     2.3.2 Second Equation of Motion:
+    
+    2.3.2 Second Equation of Motion:
+    
     <p algin = "center">
     ![equation](http://www.sciweavers.org/upload/Tex2Img_1588809669/render.png)   
     </p>
     
     2.3.3 Acceleration Terms:
-    <p align = "center">
-      <img src = "cod/AccelerationTerms.png" height = "120px" style="margin:10px 10px">
-    </p>
+    
   2.4 Linear Space-State Model
 -----------------------------------------------------------------------------------------
 ## 3. Simulation
