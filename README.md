@@ -36,52 +36,48 @@ In reference to Figure 1 the typical Furuta Pendulum is presented as such and th
   
   The variables defined below are in reference to Figure 1 and the pendulum characteristics that are shown on the model that help the reader understand the behavior of the system. 
   
-  <!--![Nom1](http://www.sciweavers.org/upload/Tex2Img_1588889804/eqn.png)-->
-  
   <p align = "center">
-   <img src = "doc/Nom1.png" height = "180px" style="margin:10px 10px">
+   <img src = "doc/Nom1.png"/>
   </p>
   
-  <p align="center">Figure 2: Nomenclature</p>
+  <p align="center">Figure 2: Nomenclature for Furuta Pendulum Schematic</p>
   
   <p align = "center">
-   <img src = "doc/Nom2.png" height = "180px" style="margin:10px 10px">
+   <img src = "doc/Nom2.png"/>
   </p>
   
-  <p align="center">Figure 3: Nomenclature</p>
+  <p align="center">Figure 3: Nomenclature for Equations of Motion variables</p>
+  
 For the most part the variables listed help the reader understand what will be further discussed and presented through mathmatical models and simulation examples. 
-
- <!--![Nom2](http://www.sciweavers.org/upload/Tex2Img_1588908719/eqn.png)-->
 
  ### 2.3 Equations of Motion
     
    First linear equation of motion with respect to the generalized forces acting on the   rotary arm:
     
-  <!--![equation1](http://www.sciweavers.org/upload/Tex2Img_1588889911/eqn.png)-->
-  <p align = "center">
-   <img src = "doc/FirstEquation.png" height = "360px" style="margin:10px 10px">
-  </p>
+  <p align = "center"><img src = "doc/FirstEquation.png"/></p>
   
   <p align="center">Figure 4: First Equation</p>
         
    Second linear equation of motion with respect to the  generalized force acting on the pendulum:
     
-   <!--![equation2](http://www.sciweavers.org/upload/Tex2Img_1588889984/eqn.png) -->
-   <p align = "center">
-   <img src = "doc/SecondEquation.png" height = "360px" style="margin:10px 10px">
-  </p>
+   <p align = "center"><img src = "doc/SecondEquation.png"/></p>
   
   <p align="center">Figure 5: Second Equation</p>
     
    Determinant for the equations of motion:
-    
-  ![equation3](http://www.sciweavers.org/upload/Tex2Img_1588890088/eqn.png)
+    <p align = "center"><img src = "doc/ThirdEquation.png"/></p>
+  
+   <p align="center">Figure 6: Third Equation</p>
     
    Acceleration terms for the equations of motion:
     
-  ![equation3](http://www.sciweavers.org/upload/Tex2Img_1588890170/eqn.png)  
+  <p align = "center"><img src = "doc/FourthEquation.png"/></p>  
+  
+  <p align="center">Figure 7: Fourth Equation</p>
     
-  ![equation5](http://www.sciweavers.org/upload/Tex2Img_1588890250/eqn.png)  
+  <p align = "center"><img src = "doc/FifthEquation.png"/></p>  
+  
+  <p align="center">Figure 8: Fifth Equation</p>
     
  ### 2.4 Linear Space-State Model
     asdfasdfasdf
