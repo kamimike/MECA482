@@ -56,28 +56,19 @@ For the most part the variables listed help the reader understand what will be f
     
   <p align = "center"><img src = "doc/FirstEquation.png"/></p>
   
-  <p align="center">Figure 4: First Equation</p>
-        
    Second linear equation of motion with respect to the  generalized force acting on the pendulum:
     
    <p align = "center"><img src = "doc/SecondEquation.png"/></p>
-  
-  <p align="center">Figure 5: Second Equation</p>
     
    Determinant for the equations of motion:
+   
     <p align = "center"><img src = "doc/ThirdEquation.png"/></p>
-  
-   <p align="center">Figure 6: Third Equation</p>
     
    Acceleration terms for the equations of motion:
     
   <p align = "center"><img src = "doc/Fourth Equation.png"/></p>  
-  
-  <p align="center">Figure 7: Fourth Equation</p>
     
   <p align = "center"><img src = "doc/FifthEquation.png"/></p>  
-  
-  <p align="center">Figure 8: Fifth Equation</p>
     
  ### 2.4 Linear Space-State Model
     asdfasdfasdf
