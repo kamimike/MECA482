@@ -14,7 +14,7 @@
   
 -----------------------------------------------------------------------------------------
 ## 1. Introduction
-For Control system models dealing with inverted pendulums, one of the most utilized and studied profoundly has been The Furuta Pendulum. This model has been used for experimental analysis for the use of control theory. The Furuta Pendulum was introduced by Katsuhisa Furuta et. al. at Tokyo Institute of Technology. 
+For Control system models dealing with inverted pendulums, one of the most utilized and studied profoundly has been The Furuta Pendulum. This model has been used for experimental analysis for the use of control theory. The Furuta Pendulum was introduced by Dr. Katsuhisa Furuta at The Tokyo Institute of Technology in Japan. 
 
 The pendulum consists of a rigid horizontal arm connected at one end to a motor. At its distal end is attached an encoder and a freely swinging arm in the vertical plane. The object of the control system is to cause the arm to remain standing. As mentioned before, The Furuta pendulum is of interest in the study of control theory because although it only has two degrees of freedom the related velocity vectors are quadratic due to the rotational nature of the system. This significantly complicates the related control theory.
 
@@ -34,27 +34,33 @@ In reference to Figure 1 the typical Furuta Pendulum is presented as such and th
 
  ### 2.2 Nomenclature
   
+  The variables defined below are in reference to Figure 1 and the pendulum characteristics that are shown on the model that help the reader understand the behavior of the system. 
+  
   ![Equation](http://www.sciweavers.org/upload/Tex2Img_1588889804/eqn.png)
+
+For the most part the variables listed help the reader understand what will be further discussed and presented through mathmatical models and simulation examples. 
+
+
 
  ### 2.3 Equations of Motion
     
    First linear equation of motion with respect to the generalized forces acting on the   rotary arm:
     
-  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588889911/eqn.png)
+  ![equation1](http://www.sciweavers.org/upload/Tex2Img_1588889911/eqn.png)
         
    Second linear equation of motion with respect to the  generalized force acting on the pendulum:
     
-   ![equation](http://www.sciweavers.org/upload/Tex2Img_1588889984/eqn.png)   
+   ![equation2](http://www.sciweavers.org/upload/Tex2Img_1588889984/eqn.png)   
     
    Determinant for the equations of motion:
     
-  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588890088/eqn.png)
+  ![equation3](http://www.sciweavers.org/upload/Tex2Img_1588890088/eqn.png)
     
    Acceleration terms for the equations of motion:
     
-  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588890170/eqn.png)  
+  ![equation3](http://www.sciweavers.org/upload/Tex2Img_1588890170/eqn.png)  
     
-  ![equation](http://www.sciweavers.org/upload/Tex2Img_1588890250/eqn.png)  
+  ![equation5](http://www.sciweavers.org/upload/Tex2Img_1588890250/eqn.png)  
     
  ### 2.4 Linear Space-State Model
     asdfasdfasdf
