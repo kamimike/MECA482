@@ -62,7 +62,7 @@ For the most part the variables listed help the reader understand what will be f
     
    Determinant for the equations of motion:
    
-    <p align = "center"><img src = "doc/ThirdEquation.png"/></p>
+   <p align = "center"><img src = "doc/ThirdEquation.png"/></p>
     
    Acceleration terms for the equations of motion:
     
