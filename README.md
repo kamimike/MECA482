@@ -71,7 +71,7 @@ For the most part the variables listed help the reader understand what will be f
     
    Acceleration terms for the equations of motion:
     
-  <p align = "center"><img src = "doc/FourthEquation.png"/></p>  
+  <p align = "center"><img src = "doc/Fourth Equation.png"/></p>  
   
   <p align="center">Figure 7: Fourth Equation</p>
     
