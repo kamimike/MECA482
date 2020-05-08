@@ -34,7 +34,7 @@ In reference to Figure 1 the typical Furuta Pendulum is presented as such and th
 
  ### 2.2 Nomenclature
   
-  The variables defined below are in reference to Figure 1 and the pendulum characteristics that are shown on the model that help the reader understand the behavior of the system. 
+  The variables defined below are in reference to Figure 2 and the pendulum characteristics that are shown on the model that help the reader understand the behavior of the system. 
   
   <p align = "center">
    <img src = "doc/Nom1.png"/>
