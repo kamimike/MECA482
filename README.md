@@ -36,9 +36,11 @@ In reference to Figure 1 the typical Furuta Pendulum is presented as such and th
   
   The variables defined below are in reference to Figure 1 and the pendulum characteristics that are shown on the model that help the reader understand the behavior of the system. 
   
+  ![Nom1](/doc/Nom1.png)
+  
   ![Nom1](http://www.sciweavers.org/upload/Tex2Img_1588889804/eqn.png)
 
-For the most part the variables listed help the reader understand what will be further discussed and presented through mathmatical models and simulation examples. 
+For the most part the variables listed help the reader understand what will be further discussed and presented through mathmatical models. 
 
  ![Nom2](http://www.sciweavers.org/upload/Tex2Img_1588908719/eqn.png)
 
