@@ -74,7 +74,7 @@ For the most part the variables listed help the reader understand what will be f
 
    Linear Space-State Equation:
    
-   <p align = "center"><img src = "doc/Linear Space-State.png"/></p>
+   <p align = "center"><img src = "doc/LinearSpace-State.PNG"/></p>
 
 -----------------------------------------------------------------------------------------
 ## 3. Simulation
