@@ -79,13 +79,15 @@ For the most part the variables listed help the reader understand what will be f
 -----------------------------------------------------------------------------------------
 ## 3. Simulation
 
-  Initial Conditions for Simulink
+  3.1 Initial Conditions for Simulink
   
-  
+   <p align = "center"><img src = "doc/InitialConditions.PNG"/></p>
 
-3.1 Script
+  3.2 Script
 
   as;dlkfjhasd;lkfjh
+  
+  3.3 Simulink
 
 -----------------------------------------------------------------------------------------
 ## 4. Implementation
