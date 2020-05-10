@@ -70,13 +70,18 @@ For the most part the variables listed help the reader understand what will be f
     
   <p align = "center"><img src = "doc/FifthEquation.png"/></p>  
     
- ### 2.4 Linear Space-State Model
-    asdfasdfasdf
-  
+ ### 2.4 Linear Space-State Equations
+
+   Linear Space-State Equation:
+   
+   <p align = "center"><img src = "doc/Linear Space-State.png"/></p>
+
 -----------------------------------------------------------------------------------------
 ## 3. Simulation
 
-  asdflkjasdf;iasjd
+  Initial Conditions for Simulink
+  
+  
 
 3.1 Script
 
